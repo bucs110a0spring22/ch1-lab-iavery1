@@ -1,1 +1,1 @@
-print ("Ian Avery")
+print("Ian Avery")
