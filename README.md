@@ -23,7 +23,7 @@ Grace days remaining: < # >/5
  < What parts of the project you were not able to complete >
 
 ## REFERENCES:
- < List any outside resources used >
+ < Syllabus >
 
 ## MISCELLANEOUS COMMENTS:
  < Anything you would like the grader to know >
